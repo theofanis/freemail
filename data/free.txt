@@ -3561,3 +3561,14 @@ mail-mode.com
 lackmail.ru
 abv.bg
 suddenlink.net
+onet.pl
+op.pl
+poczta.onet.pl
+onet.eu
+onet.com.pl
+vp.pl
+spoko.pl
+vip.onet.pl
+autograf.pl
+opoczta.pl
+konto.onet.pl
